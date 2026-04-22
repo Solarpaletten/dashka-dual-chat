@@ -141,4 +141,5 @@ XAI_API_KEY=xai-...
 
 Solar Team 🚀
 
-git commit -m "feat: Dashka EN schare audio X v1.3 initial"
+
+git commit -m "feat: Dashka DE schare X v1.3 initial"
